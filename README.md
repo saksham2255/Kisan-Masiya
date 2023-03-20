@@ -1,5 +1,5 @@
 # Kisan-Masiya
-# It is a flutter app with a blend of machine learning in it and has multiple features like:
+## It is a flutter app with a blend of machine learning in it and has multiple features like:
 
 **1) Signal Authentication via OTP**
 <p><img src="https://user-images.githubusercontent.com/76102969/226450821-258ce569-cf64-4564-a8ca-35984b4c3b3a.gif" height="600" width="300"></p>
