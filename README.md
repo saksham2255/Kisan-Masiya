@@ -1,4 +1,7 @@
 # Kisan-Masiya
+
+**Technology Stack : Flutter | Firebase | Dart | Deep Learning | Kaggle Dataset | Firestore | Numpy | Pandas**
+
 # It is a flutter app with a blend of machine learning in it and has multiple features like:
 
 ## 1) Signal Authentication via OTP
