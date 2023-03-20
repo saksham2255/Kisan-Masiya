@@ -2,7 +2,7 @@
 It is a flutter app with a blend of machine learning in it and has multiple features like:
 
 1) Signal Authentication via OTP
-![gif-1](https://user-images.githubusercontent.com/76102969/226438851-323ba146-1ddc-47b7-be1e-7dc787ba299a.gif width="250" height="250")
+<p><img src="H:\Kisan_masiya/gif-1.gif" height="250" width="250"></p>
 2) It supports Hindi as well as English languages.
 ![gif-2](https://user-images.githubusercontent.com/76102969/226439105-8cde24d0-ebf5-43c1-81f6-2235c69b9369.gif)
 3) A lessor can add farming equipments and lessee can rent it.
